@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# <b>Author:</b> Tiago de Almeida Silva<br>
+# <b>Course:</b> Statistics for Data Science with Python<br>
+# <b>Institution:</b> IBM
+
 # <h1>Project Case Scenario</h1>
 # 
 # <p>You are a Data Scientist with a housing agency in Boston MA, you have been given access to a previous dataset on housing prices derived from the U.S. Census Service to present insights to higher management. Based on your experience in Statistics, what information can you provide them to help with making an informed decision? Upper management will like to get some insight into the following.</p>
@@ -91,7 +95,7 @@ plt.show()
 
 # <b> 1.2 Provide a histogram for the Charles river variable</b>
 
-# In[171]:
+# In[189]:
 
 
 get_ipython().run_line_magic('matplotlib', 'inline')
